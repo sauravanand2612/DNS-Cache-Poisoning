@@ -6,3 +6,5 @@ This report focuses on DNS cache poisoning, an attack that aims to manipulate th
 
 #
 This report is a contribution to a group work done for the course Enterprize Digital Infrastructure (EDI) presented at Pavia University as a Computer Engineering Master's course by Saurav Anand, Malihe Mabody, Ashina Nurkoo, Seyedkourosh Sajjadi, Shubham Subhankar Sharma 
+# Note:
+This DNS Cache Poisoning project is conducted solely for educational purposes in a controlled environment using our own DNS server. No real-world systems were targeted or harmed. We do not condone or engage in illegal activities, and this project aims to enhance cybersecurity knowledge and defenses.
